@@ -5,16 +5,16 @@
 # begin properties
 properties() { '
 kernel.string=kernel
-do.devicecheck=1
+do.devicecheck=0
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=RMX3031CN
-device.name2=RMX3031
-device.name3=cupida
-device.name4=RMX3350
-device.name5=RMX3357
+device.name1=
+device.name2=
+device.name3=
+device.name4=
+device.name5=
 supported.versions=
 supported.patchlevels=
 '; } # end properties
