@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Mi5-LOS16-Official-Kernel by YourName
+kernel.string=
 do.devicecheck=0
 do.modules=0
 do.systemless=1
